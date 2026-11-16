@@ -1,0 +1,11 @@
+# Deep learning (CPU is enough; TensorFlow uses a GPU automatically if one is visible)
+tensorflow==2.20.0
+numpy==2.0.2
+pandas==2.2.2
+pillow==10.4.0
+matplotlib==3.10.8
+# Web app with a drawing canvas
+streamlit==1.38.0
+streamlit-drawable-canvas==0.9.3
+# Experiment tracking
+mlflow==3.17.2

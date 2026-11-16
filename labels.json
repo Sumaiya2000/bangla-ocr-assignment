@@ -1,0 +1,256 @@
+{
+  "dataset": "BanglaLekha-Isolated (folders 1-50, basic characters)",
+  "image_size": 48,
+  "classes": [
+    {
+      "index": 0,
+      "folder": "1",
+      "char": "অ"
+    },
+    {
+      "index": 1,
+      "folder": "2",
+      "char": "আ"
+    },
+    {
+      "index": 2,
+      "folder": "3",
+      "char": "ই"
+    },
+    {
+      "index": 3,
+      "folder": "4",
+      "char": "ঈ"
+    },
+    {
+      "index": 4,
+      "folder": "5",
+      "char": "উ"
+    },
+    {
+      "index": 5,
+      "folder": "6",
+      "char": "ঊ"
+    },
+    {
+      "index": 6,
+      "folder": "7",
+      "char": "ঋ"
+    },
+    {
+      "index": 7,
+      "folder": "8",
+      "char": "এ"
+    },
+    {
+      "index": 8,
+      "folder": "9",
+      "char": "ঐ"
+    },
+    {
+      "index": 9,
+      "folder": "10",
+      "char": "ও"
+    },
+    {
+      "index": 10,
+      "folder": "11",
+      "char": "ঔ"
+    },
+    {
+      "index": 11,
+      "folder": "12",
+      "char": "ক"
+    },
+    {
+      "index": 12,
+      "folder": "13",
+      "char": "খ"
+    },
+    {
+      "index": 13,
+      "folder": "14",
+      "char": "গ"
+    },
+    {
+      "index": 14,
+      "folder": "15",
+      "char": "ঘ"
+    },
+    {
+      "index": 15,
+      "folder": "16",
+      "char": "ঙ"
+    },
+    {
+      "index": 16,
+      "folder": "17",
+      "char": "চ"
+    },
+    {
+      "index": 17,
+      "folder": "18",
+      "char": "ছ"
+    },
+    {
+      "index": 18,
+      "folder": "19",
+      "char": "জ"
+    },
+    {
+      "index": 19,
+      "folder": "20",
+      "char": "ঝ"
+    },
+    {
+      "index": 20,
+      "folder": "21",
+      "char": "ঞ"
+    },
+    {
+      "index": 21,
+      "folder": "22",
+      "char": "ট"
+    },
+    {
+      "index": 22,
+      "folder": "23",
+      "char": "ঠ"
+    },
+    {
+      "index": 23,
+      "folder": "24",
+      "char": "ড"
+    },
+    {
+      "index": 24,
+      "folder": "25",
+      "char": "ঢ"
+    },
+    {
+      "index": 25,
+      "folder": "26",
+      "char": "ণ"
+    },
+    {
+      "index": 26,
+      "folder": "27",
+      "char": "ত"
+    },
+    {
+      "index": 27,
+      "folder": "28",
+      "char": "থ"
+    },
+    {
+      "index": 28,
+      "folder": "29",
+      "char": "দ"
+    },
+    {
+      "index": 29,
+      "folder": "30",
+      "char": "ধ"
+    },
+    {
+      "index": 30,
+      "folder": "31",
+      "char": "ন"
+    },
+    {
+      "index": 31,
+      "folder": "32",
+      "char": "প"
+    },
+    {
+      "index": 32,
+      "folder": "33",
+      "char": "ফ"
+    },
+    {
+      "index": 33,
+      "folder": "34",
+      "char": "ব"
+    },
+    {
+      "index": 34,
+      "folder": "35",
+      "char": "ভ"
+    },
+    {
+      "index": 35,
+      "folder": "36",
+      "char": "ম"
+    },
+    {
+      "index": 36,
+      "folder": "37",
+      "char": "য"
+    },
+    {
+      "index": 37,
+      "folder": "38",
+      "char": "র"
+    },
+    {
+      "index": 38,
+      "folder": "39",
+      "char": "ল"
+    },
+    {
+      "index": 39,
+      "folder": "40",
+      "char": "শ"
+    },
+    {
+      "index": 40,
+      "folder": "41",
+      "char": "ষ"
+    },
+    {
+      "index": 41,
+      "folder": "42",
+      "char": "স"
+    },
+    {
+      "index": 42,
+      "folder": "43",
+      "char": "হ"
+    },
+    {
+      "index": 43,
+      "folder": "44",
+      "char": "ড়"
+    },
+    {
+      "index": 44,
+      "folder": "45",
+      "char": "ঢ়"
+    },
+    {
+      "index": 45,
+      "folder": "46",
+      "char": "য়"
+    },
+    {
+      "index": 46,
+      "folder": "47",
+      "char": "ৎ"
+    },
+    {
+      "index": 47,
+      "folder": "48",
+      "char": "ং"
+    },
+    {
+      "index": 48,
+      "folder": "49",
+      "char": "ঃ"
+    },
+    {
+      "index": 49,
+      "folder": "50",
+      "char": "ঁ"
+    }
+  ]
+}
