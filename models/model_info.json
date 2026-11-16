@@ -1,0 +1,7 @@
+{
+  "run_id": "8bead860e5d249a1b1f2f6f0e950f861",
+  "run_name": "medium-cnn",
+  "arch": "medium",
+  "val_accuracy": 0.9422901690796801,
+  "image_size": 48
+}
